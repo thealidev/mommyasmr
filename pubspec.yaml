@@ -1,0 +1,13 @@
+name: mommy_asmr
+description: Mommy ASMR App
+ 
+environment:
+  sdk: '^3.7.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  http: 1.4.0
+  audioplayers: 6.4.0
+  shared_preferences: 2.5.3
+  dart_openai: 5.1.0
